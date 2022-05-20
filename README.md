@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning node.js, backend languages
 - 👯 I’m looking to collaborate on react development
 
----
+
 
 ### Most experience in:
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
@@ -21,9 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></code>
 
----
 
-<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
