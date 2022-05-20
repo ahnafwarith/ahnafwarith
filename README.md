@@ -1,4 +1,4 @@
-### Hey, I'm Warith, a hatchling react developer and first year CSE student <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hey, I'm Warith, a hatchling react developer and first year CSE student <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I love to explore
 - 💬 I’m currently working on random projects for learning
@@ -25,17 +25,3 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafwarith&show_icons=true&theme=gotham" alt="Ahnaf's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafwarith&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<!--
-**ahnafwarith/ahnafwarith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 
-
--  Ask me about tech
-- 📫 How to reach me: facebook/ahnafwarid
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
