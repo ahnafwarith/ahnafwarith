@@ -1,9 +1,11 @@
 ## Hey, I'm Warith, a hatchling react developer and first year CSE student <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I love to explore
-- 💬 I’m currently working on random projects for learning
+- 🤔 I’m currently working on random projects for learning
 - 🌱 I’m currently learning node.js, backend languages
 - 👯 I’m looking to collaborate on react development
+- 💬 If you are here for the cse110/cse111 assignments, just search that in repositories after deadline
+- 📫 How to reach me: corp.ahnafwarid@gmail.com
 
 
 
