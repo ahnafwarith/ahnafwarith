@@ -2,7 +2,7 @@
 
 - 🔭 I love exploring
 - 🤔 I’m currently working on random projects for learning
-- 🌱 I’m currently learning node.js, backend languages
+- 🌱 I’m currently learning node.js & backend languages
 - 👯 I’m looking to collaborate on react development
 - 📫 How to reach me: corp.ahnafwarid@gmail.com
 - 💬 If you are here for the cse110/cse111 assignments, just search that in repositories after deadline
