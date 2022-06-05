@@ -1,4 +1,4 @@
-## Hey, I'm Warith, a react developer and CSE student 
+## Hey I'm Warith, a react developer and CSE student 
 
 - 🔭 I’m currently working on random projects for learning
 - 👯 I’m looking to collaborate on react development
