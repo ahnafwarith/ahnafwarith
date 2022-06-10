@@ -1,9 +1,9 @@
 ## Hey I'm Warith, a react developer and CSE student 
+Resume link: https://docs.google.com/document/d/1d2Ts-4n__wPxFhVi26F4jiDYAAzRJQxQeEfNwzOTErM
 
-- 🔭 I’m currently working on random projects for learning
+- 🔭 I’m currently improving my math logic
 - 👯 I’m looking to collaborate on react development
 - 📫 How to reach me: corp.ahnafwarid@gmail.com
-- 💬 If you are here for the cse110/cse111 assignments, just search that in repositories after deadline
 
 
 
