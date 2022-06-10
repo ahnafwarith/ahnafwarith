@@ -1,7 +1,7 @@
 ## Hey I'm Warith, a react developer and CSE student 
 Resume link: https://docs.google.com/document/d/1d2Ts-4n__wPxFhVi26F4jiDYAAzRJQxQeEfNwzOTErM
 
-- 🔭 I’m currently improving my math logic
+- 🔭 I’m currently improving my math logic and building my portfolio site
 - 👯 I’m looking to collaborate on react development
 - 📫 How to reach me: corp.ahnafwarid@gmail.com
 
