@@ -6,8 +6,6 @@ Resume link: https://docs.google.com/document/d/1d2Ts-4n__wPxFhVi26F4jiDYAAzRJQx
 - 📫 How to reach me: corp.ahnafwarid@gmail.com
 
 
-
-
 ### Most experience in:
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
