@@ -1,8 +1,8 @@
-## Hey I'm Warith, a react developer and CSE student 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+there;I+am+Ahnaf+Warid;Welcome+to+my+Github)](https://git.io/typing-svg)
+
 Resume link: https://docs.google.com/document/d/1d2Ts-4n__wPxFhVi26F4jiDYAAzRJQxQeEfNwzOTErM
 
-- 🔭 I’m currently improving my math logic and building my portfolio site
-- 👯 I’m looking to collaborate on react development
+- 🔭 I’m a web developer, currently doing my bsc in computer science and engineering
 - 📫 How to reach me: corp.ahnafwarid@gmail.com
 
 
