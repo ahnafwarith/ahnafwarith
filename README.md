@@ -9,11 +9,11 @@ Resume link: https://docs.google.com/document/d/1d2Ts-4n__wPxFhVi26F4jiDYAAzRJQx
 ### Most experience in:
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-<code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ### Other Tech I use:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></code>
 <code><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
