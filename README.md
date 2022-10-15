@@ -2,7 +2,7 @@
 
 Resume link: https://docs.google.com/document/d/1d2Ts-4n__wPxFhVi26F4jiDYAAzRJQxQeEfNwzOTErM
 
-- 🔭 I’m a MERN Stack Developer, currently doing my bsc in computer science and engineering
+- 🔭 I’m currently doing my bsc in computer science and engineering and a part-time MERN stack developer
 - 📫 How to reach me: corp.ahnafwarid@gmail.com
 
 
