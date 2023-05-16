@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+there;I+am+Ahnaf+Warid;Welcome+to+my+Github)](https://git.io/typing-svg)
 
-Resume link: https://docs.google.com/document/d/1d2Ts-4n__wPxFhVi26F4jiDYAAzRJQxQeEfNwzOTErM
-
 - 🔭 I’m currently doing my bsc in computer science and engineering and a part-time MERN stack developer
-- 📫 How to reach me: corp.ahnafwarid@gmail.com
+- 📫 How to reach me (projects / business): corp.ahnafwarid@gmail.com
 
 
 ### Most experience in:
