@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+there;I+am+Ahnaf+Warid;Welcome+to+my+Github)](https://git.io/typing-svg)
 
-- 🔭 I’m currently doing my bsc in computer science and engineering and a part-time MERN stack developer
+- 🔭 I’m currently doing my bsc in computer science and engineering
 - 📫 How to reach me (projects / business): corp.ahnafwarid@gmail.com
 
 
